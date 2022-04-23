@@ -11,8 +11,8 @@
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy upto 40 UserBots in One time 🔥
-- [x] Dm Spam / Raid
+- [x] Deploy upto 4444 UserBots in One time 😂
+- [x] pm Spam / Raid
 - [x] Pornspam
 - [x] You can also add members using Spam Bots
 
@@ -30,8 +30,8 @@
 [![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHxHELL)
+* [Channel](https://t.me/OFFICIAL_BROKEN_MAFIA)
+* [Support Group](https://t.me/OFFICIAL_BROKEN_MAFIA)
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
